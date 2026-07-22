@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=whyzeekai&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Minecraft%20Bedrock%20%C2%B7%20PocketMine-MP%20%C2%B7%20PHP&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C724B1&height=200&section=header&text=whyzeekai&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Minecraft%20Bedrock%20%C2%B7%20PocketMine-MP%20%C2%B7%20PHP&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=560&lines=PocketMine-MP+Developer;PHP+Backend+Developer;6%2B+%D0%BB%D0%B5%D1%82+%D0%B2+Minecraft-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5;HypeCore+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82" alt="Typing SVG" />
 
@@ -89,4 +89,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C724B1,100:8A2BE2&height=120&section=footer" />
