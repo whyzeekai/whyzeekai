@@ -47,7 +47,7 @@
 ### 🛠️ Работаю / участвую
 
 <img src="https://img.shields.io/badge/HypeGO-Разработчик-2ECC71?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/MineWay-Разработчик-FF8000?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/MineWay-Разработчик-00FFFF?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/и_другие-Разработчик-7F8C8D?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
