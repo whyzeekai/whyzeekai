@@ -88,3 +88,13 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C724B1,100:8A2BE2&height=120&section=footer" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whyzeekai/whyzeekai/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whyzeekai/whyzeekai/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/whyzeekai/whyzeekai/output/snake.svg" />
+</picture>
+
+</div>
