@@ -40,27 +40,11 @@
 
 </div>
 
-## 🏆 Трофеи
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=whyzeekai&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
 ## 📈 Активность
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whyzeekai&theme=react-dark&hide_border=true&bg_color=0d1117&color=26d0ce&line=26d0ce&point=ffffff)
-
-</div>
-
-## 🐍 Контрибьюшены
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/whyzeekai/whyzeekai/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
