@@ -83,7 +83,7 @@
 <a href="https://t.me/rinece"><img src="https://img.shields.io/badge/Telegram-@rinece-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://vk.ru/kuzdev"><img src="https://img.shields.io/badge/VK_личный-kuzdev-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
 <a href="https://vk.ru/hypego"><img src="https://img.shields.io/badge/VK_сервер-hypego-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
-<a href="https://whyzeekai.com"><img src="https://img.shields.io/badge/Website-whyzeekai.com-26D0CE?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://whyzeekai.ru"><img src="https://img.shields.io/badge/Website-whyzeekai.com-26D0CE?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 </div>
 
