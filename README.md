@@ -40,13 +40,13 @@
 
 <img src="https://img.shields.io/badge/OnyxPE-Владелец-9B30FF?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/SyminePE-Владелец-1E90FF?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/MineZure-Владелец-3498DB?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/MineZure-Владелец-ff2b2b?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
 
 <br><br>
 
 ### 🛠️ Работаю / участвую
 
-<img src="https://img.shields.io/badge/HypeGO-Разработчик-ff2b2b?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/HypeGO-Разработчик-2ECC71?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/и_другие-Разработчик-7F8C8D?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
