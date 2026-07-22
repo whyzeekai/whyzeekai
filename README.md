@@ -63,9 +63,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whyzeekai&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyzeekai&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=whyzeekai&theme=react&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" />
 
 </div>
