@@ -46,35 +46,10 @@
 ### 🛠️ Работаю / участвую
 
 <img src="https://img.shields.io/badge/HypeGO-Разработчик-2ECC71?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/MineZure-Разработчик-3498DB?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/MineZure-Владелец-3498DB?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
 <img src="https://img.shields.io/badge/и_другие-Разработчик-7F8C8D?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
-
-## 🧩 Мой стек в деле
-
-```php
-<?php
-
-namespace whyzeekai;
-
-final class Developer
-{
-    public string $name  = "Nikita";
-    public int    $years = 6;
-    public array  $stack = ["PHP", "PocketMine-MP", "MySQL", "Web"];
-
-    public array $projects = [
-        "own"     => ["OnyxPE", "SyminePE"],
-        "current" => ["HypeGO", "MineZure"],
-    ];
-
-    public function focus(): string
-    {
-        return "Стабильные и производительные сервера Minecraft Bedrock";
-    }
-}
-```
 
 ## 🛠️ Технологии
 
