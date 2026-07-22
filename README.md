@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=whyzeekai&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Minecraft%20Bedrock%20%C2%B7%20PocketMine-MP%20%C2%B7%20PHP&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=PocketMine-MP+Developer;PHP+Backend+Developer;HypeCore+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82;%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+Web-Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=560&lines=PocketMine-MP+Developer;PHP+Backend+Developer;6%2B+%D0%BB%D0%B5%D1%82+%D0%B2+Minecraft-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5;HypeCore+%E2%80%94+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82" alt="Typing SVG" />
 
 <p>
   <a href="https://t.me/rinece"><img src="https://img.shields.io/badge/Telegram-@rinece-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
@@ -16,10 +16,65 @@
 ## 🧊 Обо мне
 
 - 🎮 Разрабатываю сервера **Minecraft Bedrock** на **PocketMine-MP**
+- 🕐 В сфере уже **6+ лет** — от небольших проектов до крупных сеток
 - ⚙️ Развиваю свой проект — ядро **HypeCore**
 - 🐘 Основной язык — **PHP**: плагины, API, серверная логика
 - 🌐 Немного занимаюсь **веб-разработкой**
 - 📫 Пиши в Telegram или ВК — контакты ниже
+
+## 💼 Опыт
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⏳_Опыт-6%2B_лет-26d0ce?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎯_Специализация-Bedrock_Edition-EE7A18?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔧_Ядро-HypeCore-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Собственные проекты
+
+<img src="https://img.shields.io/badge/OnyxPE-Владелец-9B30FF?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/SyminePE-Владелец-1E90FF?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+
+<br><br>
+
+### 🛠️ Работаю / участвую
+
+<img src="https://img.shields.io/badge/HypeGO-Разработчик-2ECC71?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/MineZure-Разработчик-3498DB?style=for-the-badge&labelColor=1a1a2e&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/и_другие-Разработчик-7F8C8D?style=for-the-badge&labelColor=1a1a2e" />
+
+</div>
+
+## 🧩 Мой стек в деле
+
+```php
+<?php
+
+namespace whyzeekai;
+
+final class Developer
+{
+    public string $name  = "Nikita";
+    public int    $years = 6;
+    public array  $stack = ["PHP", "PocketMine-MP", "MySQL", "Web"];
+
+    public array $projects = [
+        "own"     => ["OnyxPE", "SyminePE"],
+        "current" => ["HypeGO", "MineZure"],
+    ];
+
+    public function focus(): string
+    {
+        return "Стабильные и производительные сервера Minecraft Bedrock";
+    }
+}
+```
 
 ## 🛠️ Технологии
 
