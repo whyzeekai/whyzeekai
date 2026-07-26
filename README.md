@@ -28,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/⏳_Опыт-6%2B_лет-26d0ce?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🎯_Специализация-Bedrock_Edition-EE7A18?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔧_Ядро-HypeCore-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔧_Ядро-MiSoft-8A2BE2?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
